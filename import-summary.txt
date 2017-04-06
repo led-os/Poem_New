@@ -1,0 +1,156 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\SocialSDK_evernote.xml
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\mta_sdk_1_6_2.xml
+* .idea\libraries\open_sdk_r4889_lite.xml
+* .idea\libraries\umeng_analytics_v5_4_2.xml
+* .idea\libraries\umeng_analytics_v5_4_2__2_.xml
+* .idea\libraries\umeng_social_sdk.xml
+* .idea\libraries\umeng_social_sdk__2_.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* Poem.iml
+* ant.properties
+* build.xml
+* out\
+* out\production\
+* out\production\Poem\
+* out\production\Poem\Poem.apk
+* out\production\Poem\com\
+* out\production\Poem\com\xhr\
+* out\production\Poem\com\xhr\Poem\
+* out\production\Poem\com\xhr\Poem\AddPoemActivity$1.class
+* out\production\Poem\com\xhr\Poem\AddPoemActivity$2.class
+* out\production\Poem\com\xhr\Poem\AddPoemActivity.class
+* out\production\Poem\com\xhr\Poem\AppConfig.class
+* out\production\Poem\com\xhr\Poem\AppState.class
+* out\production\Poem\com\xhr\Poem\BuildConfig.class
+* out\production\Poem\com\xhr\Poem\DetailActivity$1.class
+* out\production\Poem\com\xhr\Poem\DetailActivity$MyFragmentPagerAdapter.class
+* out\production\Poem\com\xhr\Poem\DetailActivity.class
+* out\production\Poem\com\xhr\Poem\MainActivity$1.class
+* out\production\Poem\com\xhr\Poem\MainActivity$10.class
+* out\production\Poem\com\xhr\Poem\MainActivity$2.class
+* out\production\Poem\com\xhr\Poem\MainActivity$3.class
+* out\production\Poem\com\xhr\Poem\MainActivity$4.class
+* out\production\Poem\com\xhr\Poem\MainActivity$5.class
+* out\production\Poem\com\xhr\Poem\MainActivity$6.class
+* out\production\Poem\com\xhr\Poem\MainActivity$7.class
+* out\production\Poem\com\xhr\Poem\MainActivity$8.class
+* out\production\Poem\com\xhr\Poem\MainActivity$9.class
+* out\production\Poem\com\xhr\Poem\MainActivity$PoemAdapter.class
+* out\production\Poem\com\xhr\Poem\MainActivity$SearchDialog$1.class
+* out\production\Poem\com\xhr\Poem\MainActivity$SearchDialog.class
+* out\production\Poem\com\xhr\Poem\MainActivity$ViewHolder.class
+* out\production\Poem\com\xhr\Poem\MainActivity.class
+* out\production\Poem\com\xhr\Poem\R$anim.class
+* out\production\Poem\com\xhr\Poem\R$attr.class
+* out\production\Poem\com\xhr\Poem\R$color.class
+* out\production\Poem\com\xhr\Poem\R$drawable.class
+* out\production\Poem\com\xhr\Poem\R$id.class
+* out\production\Poem\com\xhr\Poem\R$layout.class
+* out\production\Poem\com\xhr\Poem\R$string.class
+* out\production\Poem\com\xhr\Poem\R$style.class
+* out\production\Poem\com\xhr\Poem\R.class
+* out\production\Poem\com\xhr\Poem\WelcomeActivity$1.class
+* out\production\Poem\com\xhr\Poem\WelcomeActivity.class
+* out\production\Poem\com\xhr\Poem\XhrApplication.class
+* out\production\Poem\com\xhr\Poem\dal\
+* out\production\Poem\com\xhr\Poem\dal\CommentAccess.class
+* out\production\Poem\com\xhr\Poem\dal\PoemAccess.class
+* out\production\Poem\com\xhr\Poem\dal\XhrDbHelper.class
+* out\production\Poem\com\xhr\Poem\model\
+* out\production\Poem\com\xhr\Poem\model\CommentItem.class
+* out\production\Poem\com\xhr\Poem\model\PoemItem.class
+* out\production\Poem\com\xhr\Poem\qq\
+* out\production\Poem\com\xhr\Poem\qq\BaseUIListener$1.class
+* out\production\Poem\com\xhr\Poem\qq\BaseUIListener.class
+* out\production\Poem\com\xhr\Poem\qq\Util$1.class
+* out\production\Poem\com\xhr\Poem\qq\Util.class
+* out\production\Poem\com\xhr\Poem\util\
+* out\production\Poem\com\xhr\Poem\util\DateUtil.class
+* out\production\Poem\com\xhr\Poem\util\FileDownloader.class
+* out\production\Poem\com\xhr\Poem\util\NetWorkUtil.class
+* out\production\Poem\com\xhr\Poem\util\StringUtil.class
+* out\production\Poem\com\xhr\Poem\view\
+* out\production\Poem\com\xhr\Poem\view\CommonDialog$Builder$1.class
+* out\production\Poem\com\xhr\Poem\view\CommonDialog$Builder$2.class
+* out\production\Poem\com\xhr\Poem\view\CommonDialog$Builder.class
+* out\production\Poem\com\xhr\Poem\view\CommonDialog.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$1.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$2.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$3.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$4$1$1.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$4$1$2.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$4$1.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$4.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$5.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$6.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$7.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$8.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$CommentAdapter.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$IPlayer.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$IShare.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment$ViewHolder.class
+* out\production\Poem\com\xhr\Poem\view\ContentFragment.class
+* poem.html
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\open_sdk_r4889_lite.jar => app\libs\open_sdk_r4889_lite.jar
+* libs\umeng-analytics-v5.4.2.jar => app\libs\umeng-analytics-v5.4.2.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
